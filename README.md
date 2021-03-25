@@ -6,7 +6,7 @@ I'm João Gabriel <br>
 21 years-old | I live at Limeira/SP - Brazil <br>
 I'm a Full Stack developer, but I love FrontEnd applications
 
-- 🔭 I’m currently working on Angular, TypeScript and Node apps/systems
-- 🌱 I’m currently learning Angular, React, React Native and NodeJS
+- 🔭 I’m currently working on React, React Native, TypeScript, Flutter and Node apps/systems
+- 🌱 I’m currently learning Angular, React, React Native, NodeJS and Flutter
 - 💬 Ask me about: tech, games, anime, series and movies.
--  ⚡ Technologies: Angular, React, Node, React-Native
+-  ⚡ Technologies: React, Node, React Native, Angular, Flutter, Python
