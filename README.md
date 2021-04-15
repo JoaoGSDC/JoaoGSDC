@@ -1,6 +1,6 @@
 # João Gabriel
-[![Linkedin Badge](https://img.shields.io/badge/-joaogsdc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogsdc/)](https://www.linkedin.com/in/joaogsdc/)
-[![Gmail Badge](https://img.shields.io/badge/-joaogsdc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogsdc@gmail.com)](mailto:joaogsdc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joaogsdc-3efd51?style=flat-square&logo=Linkedin&logoColor=3efd51&color=212121&link=https://www.linkedin.com/in/joaogsdc/)](https://www.linkedin.com/in/joaogsdc/)
+[![Gmail Badge](https://img.shields.io/badge/-joaogsdc@gmail.com-3efd51?style=flat-square&logo=Gmail&logoColor=3efd51&color=212121&link=mailto:joaogsdc@gmail.com)](mailto:joaogsdc@gmail.com)
 ## Hi guys 👋, 
 I'm João Gabriel <br>
 21 years-old | I live at Limeira/SP - Brazil <br>
