@@ -9,4 +9,7 @@ I'm a Full Stack developer, but I love FrontEnd applications
 - 🔭 I’m currently working on React, React Native, TypeScript, Flutter and Node apps/systems
 - 🌱 I’m currently learning Angular, React, React Native, NodeJS and Flutter
 - 💬 Ask me about: tech, games, anime, series and movies.
--  ⚡ Technologies: React, Node, React Native, Angular, Flutter, Python
+-  ⚡ Technologies: 
+
+<img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png"> React | <img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png"> React Native |  <img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">Node | <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> Angular | <img align="center" height="30" src="https://avatars.githubusercontent.com/u/14101776?s=400&v=4"> Flutter | <img align="center" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png"> Python
+
