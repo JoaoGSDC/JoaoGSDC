@@ -14,3 +14,9 @@ I'm a Full Stack developer, but I love FrontEnd applications
 
 <img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png"> React | <img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png"> React Native |  <img align="center" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">Node | <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> Angular | <img align="center" height="30" src="https://avatars.githubusercontent.com/u/14101776?s=400&v=4"> Flutter | <img align="center" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png"> Python
 
+<div>
+  <a href="https://github.com/JoaoGSDC">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoGSDC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGSDC&layout=compact&langs_count=16&theme=dark"/>
+<div>
+  
