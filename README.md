@@ -4,7 +4,7 @@
 ## <img align="center" height="40" src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"> Welcome to my GitHub Profile 
 Hi guys 👋<br>
 I'm João Gabriel <br>
-24 years-old | I live at Limeira/SP - Brazil <br>
+26 years-old | I live at Limeira/SP - Brazil <br>
 I'm a Frontend developer, but I can create complete applications
 
 - 🔭 I’m currently working on React, React Native, TypeScript and Node apps/systems
